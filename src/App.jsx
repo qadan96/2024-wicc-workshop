@@ -16,7 +16,7 @@ function App() {
         <div className="h-auto flex flex-row sm:flex-col-reverse space-x-10 sm:space-x-0 ">
           <div className="flex flex-col justify-center space-y-5 text-base">
             {/* TODO 1: Edit the content of these tags!*/}
-            <h1>Hi! I'm ______</h1>
+            <h1>Hi! I'm Bandar</h1>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
               Vestibulum ac ante eget arcu ultrices eleifend. Curabitur
